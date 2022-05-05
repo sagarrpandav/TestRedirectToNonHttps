@@ -3,3 +3,4 @@ const redirectToItp = () => {
 };
 
 console.log("Hello");
+redirectToItp();
