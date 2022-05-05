@@ -1,1 +1,1 @@
-location.href = "http://hub.itp.io:5000/";
+setTimeout(() => {location.href = "http://hub.itp.io:5000/";}, 5000);
